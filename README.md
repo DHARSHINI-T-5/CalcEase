@@ -16,3 +16,6 @@ Agile Methodology
 
 ## Project Management Tool
 GitHub
+
+## Version Control Practice
+This project is maintained using Git.
